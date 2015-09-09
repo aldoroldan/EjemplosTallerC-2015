@@ -1,7 +1,7 @@
 /*
- * Archivo:funciones1.c
- * Descripcion: ejemplo que muestra como definir e implementar funciones sin parametros de entrada, con parametros de entrada
- *				y sin retorno de resultados; asi tambien como su convocatoria.	 
+ * Archivo:funciones2.c
+ * Descripcion: ejemplo que muestra como definir e implementar funciones que retornan resultados, asi tambien como 
+ *              diferentes formas de convocarla	 
  */
 
 #include <stdio.h>
